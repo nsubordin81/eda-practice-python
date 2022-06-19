@@ -1,0 +1,8 @@
+name: eda-practice
+dependencies:
+  - scikit-learn
+  - numpy
+  - pandas
+  - matplotlib
+  - scipy
+  - jupyterlab  
